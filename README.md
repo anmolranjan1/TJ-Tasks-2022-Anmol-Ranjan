@@ -12,3 +12,6 @@
    [<img src="images/easy2_output.png" height="230" width="340" title="Survey Form Output">](Web_Development/Easy/survey_form.html)
    **[⬆ back to top](###Easy)**
 
+### Medium:
+   <img src="images/medium.png" height="230" width="230" title="Survey Form Output">](Web_Development/Medium/index.html)
+   **[⬆ back to top](###Medium)**
