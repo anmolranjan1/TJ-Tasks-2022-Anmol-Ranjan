@@ -2,13 +2,13 @@
 
 ## For TechnoJam Auditions
 
-Web Development - Easy & Medium
+## Web Development
+
+### Easy: 
+   [<img src="images/easy1.png" height="380" width="240" title="Survey Form">](Web_Development/Easy/survey_form.html)
+   **[⬆ back to top](###Easy)**
     
-    ### Easy: 
-    [<img src="images/easy1.png" height="230" title="Survey Form">](Web_Development/Easy/survey_form.html)
-    **[⬆ back to top](#easy)**
+### Output:
+   [<img src="images/easy2_output.png" height="230" width="330" title="Survey Form Output">](Web_Development/Easy/survey_form.html)
+   **[⬆ back to top](###Easy)**
 
-    [<img src="images/easy2_output.png" height="230" title="Survey Form Output">](Web_Development/Easy/survey_form.html)
-    **[⬆ back to top](#easy)**
-
-// I have also added a README file in each of the respective folders describing what I have done.
