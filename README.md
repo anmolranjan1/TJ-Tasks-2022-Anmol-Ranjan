@@ -3,7 +3,7 @@
 ## For TechnoJam Auditions
     
 ### Easy: 
-[<img src="images/easy1.png" height="230" title="Survey Form">](Web_Development/Easy/survey_form.html)
+[<img src="images/easy1.png" height="330" width="200" title="Survey Form">](Web_Development/Easy/survey_form.html)
     **[⬆ back to top](###Easy)**
     
 ### Output:
