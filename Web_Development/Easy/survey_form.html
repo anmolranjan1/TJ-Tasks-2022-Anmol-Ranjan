@@ -1,0 +1,83 @@
+<!-- A Survey Form - An HTML Form that captures the input and shows it to the user on submission. -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Survey Form</title>
+</head>
+
+<body>
+    <h2>Survey Form</h2>
+    <div class="center">
+    <form onsubmit="takevalue()">
+        <label for="name"> Customer Name: </label>
+        <div>
+            <input type="text" name="name" placeholder="Your Name" , id="name">
+        </div>
+        <br>
+        <label for="address"> Address: </label>
+        <div>
+            <textarea type="text" name="address" cols="30" rows="2" placeholder="Your Permanent Address" ,
+                id="address"></textarea>
+        </div>
+        <br>
+        <label for="mobile"> Contact Number: </label>
+        <div>
+            <input type="number" name="mobile" placeholder="9876543210" , id="mobile">
+        </div>
+        <br>
+        <label for="email"> Email Address: </label>
+        <div>
+            <input type="email" name="email" id="email">
+        </div>
+        <br>
+        <label for="comment1"> How long have you been using this product & why? </label>
+        <div>
+            <textarea type="text" cols="53" rows="7" name="comment1" id="comment1"></textarea>
+        </div>
+        <br>
+        <label for="satisfied"> Are you satisfied with our product performance? </label>
+        <div>
+            Satisfied <input type="radio" name="satisfied" id="satisfied">&nbsp;&nbsp; Unsatisfied <input type="radio"
+                name="satisfied" id="satisfied">
+        </div>
+        <br>
+        <label for="comment2"> Share your opinions: </label>
+        <div>
+            <textarea name="comment2" cols="53" rows="7" id="comment2"></textarea>
+        </div>
+        <br>
+
+        <div>
+            <input type="submit" value="Submit Now">
+            <input type="reset" value="Reset Now">
+        </div>
+    </div>
+    </form>
+
+    <script>
+        function takevalue() {
+            var name = document.getElementById("name").value;
+            var address = document.getElementById("address").value;
+            var mobile = document.getElementById("mobile").value;
+            var email = document.getElementById("email").value;
+            var comment1 = document.getElementById("comment1").value;
+            var comment2 = document.getElementById("comment2").value;
+
+            document.write("Your Name = " + name + "<br><br>");
+            document.write("Your Address = " + address + "<br><br>");
+            document.write("Your Mobile No. = " + mobile + "<br><br>");
+            document.write("Your Email Address = " + email + "<br><br>");
+            document.write("How long have you been using this product and why?: " + comment1 + "<br><br>");
+            // document.write("Are you satisfied with our product performance?: " + satisfied + "<br><br>");
+            document.write("Share your opinions: " + comment2 + "<br><br>");
+            document.write("Thank you for completing this survey!");
+        }
+    </script>
+</body>
+
+</html>
