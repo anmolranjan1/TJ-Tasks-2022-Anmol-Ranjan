@@ -13,7 +13,7 @@
    **[⬆ back to top](###Easy)**
 
 ### Medium:
-   <img src="images/medium1.png" height="230" width="230" title="Survey Form Output">](Web_Development/Medium/index.html)
+   <img src="images/medium1.png" height="230" title="Portfolio">](Web_Development/Medium/index.html)
    **[⬆ back to top](###Medium)**
-   <img src="images/medium2.png" height="230" width="230" title="Survey Form Output">](Web_Development/Medium/index.html)
+   <img src="images/medium2.png" height="230" title="Portfolio">](Web_Development/Medium/index.html)
    **[⬆ back to top](###Medium)**
