@@ -15,7 +15,7 @@
 
 # Web_Development
 
-### Easy: 
+## Easy: 
 [<img src="images/easy1.png" height="385" width="240" title="Survey Form">](Web_Development/Easy/survey_form.html)
    
 **[⬆ back to top](#web_development)**
@@ -26,7 +26,7 @@
    
 **[⬆ back to top](#web_development)**
 
-### Medium:
+## Medium:
 
 [<img src="images/medium1.png" height="230" title="Portfolio">](Web_Development/Medium/index.html)
 
